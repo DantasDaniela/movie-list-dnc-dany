@@ -1,0 +1,15 @@
+
+@import "./views-pages/Home/index.scss";
+@import "./views-pages/MovieDetail/index.scss";
+@import "./components/Header/index.scss";
+@import "./components/MovieCard/index.scss";
+
+  @import url('https://fonts.googleapis.com/css2?family=Roboto+Serif:ital,opsz,wght@0,8..144,100;0,8..144,300;0,8..144,800;1,8..144,700&display=swap');
+
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Roboto",sans-serif;
+}

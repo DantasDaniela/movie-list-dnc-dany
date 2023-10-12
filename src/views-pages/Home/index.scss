@@ -1,0 +1,12 @@
+.Home {
+    background-color: #303030;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+
+    > div {
+        margin: 15px;
+        max-width: 400px;
+    }
+}
